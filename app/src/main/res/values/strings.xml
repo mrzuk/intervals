@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Intervals</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_new_series">NewSeries</string>
+    <string name="new_category_seconds">Seconds</string>
+</resources>
